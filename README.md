@@ -18,3 +18,18 @@
 - 💬 Interests - **Aviation Software**
 
 - 📫 Reach me - [**Discord**](https://discord.com/users/447353396047904770) or [**Email**](jaewonjung1004@gmail.com) 
+
+
+
+
+
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Gabriel-Jay&theme=dracula&count_private=true"></div>
+
+<table width="100%" align="center">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Jay&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Jay&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
+  </tr>
+ <table>
