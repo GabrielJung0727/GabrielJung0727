@@ -3,8 +3,6 @@
 
 <h3 align="center">Future-Dreaming Software Engineer
 </h3>
-<div align="left"><img alt="uwu"src="https://discord.c99.nl/widget/theme-2/447353396047904770.png"></div>
-
 
 
 
@@ -40,7 +38,6 @@
 <h3 align="left">Get in touch:</h3>
 <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/447353396047904770" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 - ✍ Made - **Gabriel_Jay**
