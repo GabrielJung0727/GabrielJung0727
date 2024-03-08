@@ -11,13 +11,13 @@
 <p align="left"> <img src="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGabriel-Jay&count_bg=%2364DFD6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true" /> </p> </p>
 
 
-- 🔭 Working on - **Discord Bot (Joy & MUSIC_JAY) / Kakaotalk Chatbot**
+- 🔭 Working on - **Discord Bot (Joy, TT) With Team.Libentia**
 
 - 🌱 Learning  - **C++ / C / Matlab / Simulink**
 
 - 💬 Interests - **Aviation Software**
 
-- 📫 Reach me - [**Discord**](https://discord.com/users/447353396047904770) or [**Email**](jaewonjung1004@gmail.com) 
+- 📫 Conact me - [**Email**](gabriel0727@gmail.com) 
 
 
 
