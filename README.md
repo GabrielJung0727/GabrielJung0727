@@ -3,9 +3,9 @@
 <h3 align="center">🛫 항공 소프트웨어 엔지니어 & 여러 분야의 개발자 | Aerospace Software Engineer & Multi-field Developer 🛫</h3>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGabriel-Jay&count_bg=%2364DFD6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Gabriel-Jay?style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Gabriel-Jay?style=social" alt="GitHub stars" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGabriel?_Jay&count_bg=%2364DFD6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Gabriel_Jay?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Gabriel_Jay?style=social" alt="GitHub stars" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ### 🎖️ GitHub Achievements / 깃허브 업적
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-Jay&theme=dracula&count_private=true" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gabriel_Jay&theme=dracula&count_private=true" alt="Trophy" />
 </div>
 
 ---
@@ -47,11 +47,11 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Jay&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" /></td>
-      <td align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Jay&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" /></td>
+      <td align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel_Jay&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" /></td>
+      <td align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel_Jay&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" /></td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Jay&theme=tokyonight" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel_Jay&theme=tokyonight" alt="streak stats"/>
 </div>
 
 ---
