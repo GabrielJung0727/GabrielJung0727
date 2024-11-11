@@ -8,27 +8,27 @@
 
 ---
 
-### 🧑‍🚀 About Me / 나란 사람
-
-- **이름 / Name**: Gabriel Jay
-- **직업 / Profession**: 항공 소프트웨어 엔지니어 & 다양한 분야의 개발자 (Aerospace Software Engineer & Developer in Diverse Domains)
-- **현 상태 / Current Status**: 쉬고 있는 상태 (Taking a Break)
-
----
-
-### 🌐 Languages I Speak
-
-- **Korean** 🇰🇷
-- **English (US & UK)** 🇺🇸🇬🇧
-- **Chinese** 🇨🇳
+> ### 🧑‍🚀 About Me / 나란 사람
+> 
+> **이름 / Name**: Gabriel Jay  
+> **직업 / Profession**: 항공 소프트웨어 엔지니어 & 다양한 분야의 개발자  
+> **현 상태 / Current Status**: 쉬고 있는 상태 (Taking a Break)
 
 ---
 
-### 💼 Developer Journey / 개발 여정
+> ### 🌐 Languages I Speak
+>  
+> - **Korean** 🇰🇷  
+> - **English (US & UK)** 🇺🇸🇬🇧  
+> - **Chinese** 🇨🇳
 
-- 🌱 **Studying**: **C++**, **C**, **Matlab**, **Simulink**
-- ✈️ **Interests**: 항공 소프트웨어와 개발의 교차점 탐구 (Exploring the intersection of aviation software and development)
-- 📬 **Contact / 연락**: [**이메일로 연락 주세요**](mailto:gabriel0727@gmail.com)
+---
+
+> ### 💼 Developer Journey / 개발 여정
+> 
+> - 🌱 **Studying**: **C++**, **C**, **Matlab**, **Simulink**  
+> - ✈️ **Interests**: 항공 소프트웨어와 개발의 교차점 탐구  
+> - 📬 **Contact / 연락**: [**이메일로 연락 주세요**](mailto:gabriel0727@gmail.com)
 
 ---
 
@@ -53,32 +53,30 @@
 
 ---
 
-### 🛠️ Tech Stack / 기술 스택
-
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-</p>
+> ### 🛠️ Tech Stack / 기술 스택
+> 
+> <p align="center">
+>   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+>   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+>   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+>   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+>   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+>   <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
+>   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+>   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+>   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+>   <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
+>   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+>   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+>   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+> </p>
 
 ---
 
-### ✍️ Created with Passion by - **Gabriel Jay** / 열정으로 만들어 가는 중 - **Gabriel Jay**
-
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="24" height="24" /> <b>Let's create, innovate, and push the boundaries of what's possible!</b> 
-</p>
+> ### ✍️ Created with Passion by - **Gabriel Jay** / 열정으로 만들어 가는 중 - **Gabriel Jay**
+> 
+> <p align="center">
+>   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="24" height="24" /> <b>Let's create, innovate, and push the boundaries of what's possible!</b> 
+> </p>
 
 ---
