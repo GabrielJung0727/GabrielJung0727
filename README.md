@@ -47,8 +47,8 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Jay&show_icons=true&theme=dracula" alt="GitHub stats" /></td>
-      <td align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Jay&layout=compact&theme=dracula" alt="Top Languages" /></td>
+      <td align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel_Jay&show_icons=true&theme=dracula" alt="GitHub stats" /></td>
+      <td align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel_Jay&layout=compact&theme=dracula" alt="Top Languages" /></td>
     </tr>
   </table>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel_Jay&theme=tokyonight" alt="streak stats"/>
