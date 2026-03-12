@@ -1,24 +1,50 @@
 # Gabriel Jung - AI Full-Stack Engineer
 
 ## About Me
-I am a university student and an AI full-stack software engineer with hands-on experience in both research and production projects. I specialize in **Natural Language Processing (NLP)** and focus on **fine-tuning and optimizing deep learning models** to achieve project-specific performance.
+I am a university student and an AI full-stack software engineer focused on building practical AI-powered applications.
 
-## Skills & Expertise
-- **AI Model Development**: Experimentation, fine-tuning, and optimization of deep learning models.
-- **Production Deployment**: Managing the entire workflow from model training to deployment, monitoring, and performance optimization.
-- **Full-Stack Development**: Designing and implementing user interfaces (UI/UX) and integrating models into service-ready applications.
-- **Project Management**: Handling both personal projects for creative experimentation and professional client projects for real-world application.
+My portfolio website showcases my projects, experiments, and development work:
+
+🌐 **Portfolio:**  
+https://gabrieljung0727.github.io/
+
+My work spans **AI model experimentation, full-stack development, and production deployment**, with a particular interest in **Natural Language Processing (NLP)** and applied AI systems.
+
+## What I Do
+- **AI Application Development**  
+  Building services powered by modern AI models and APIs.
+
+- **Full-Stack Engineering**  
+  Designing and developing complete web services including frontend, backend, and infrastructure.
+
+- **AI Model Integration**  
+  Integrating machine learning models into real-world applications and optimizing them for production.
+
+- **End-to-End Product Development**  
+  From idea → prototype → deployed service.
+
+## Portfolio
+All major projects, experiments, and development work are available on my portfolio site:
+
+👉 **https://gabrieljung0727.github.io/**
+
+The portfolio includes:
+- Personal AI experiments
+- Web service projects
+- Client work and research-related development
+- Full-stack systems and infrastructure setups
 
 ## Workflow
-1. **Prototype Phase**: Utilize various AI APIs to quickly test and iterate on ideas.
-2. **Service Phase**: Implement and optimize Hugging Face models for production use.
-3. **End-to-End Ownership**: Oversee everything from model development to deployment, including UI design and user experience.
+My typical development workflow:
 
-## Personal Projects
-I regularly develop personal projects to experiment with new AI techniques and expand my portfolio.
+1. **Prototype Phase**  
+   Rapid experimentation using AI APIs and quick service prototypes.
 
-## Professional Work
-Alongside personal projects, I take on external client projects, applying AI models to practical use cases and delivering optimized, service-ready solutions.
+2. **Model Integration Phase**  
+   Implementing or fine-tuning models using frameworks such as Hugging Face.
+
+3. **Production Phase**  
+   Deploying scalable services and optimizing performance.
 
 ## Summary
-I am an AI full-stack engineer with end-to-end experience, capable of taking projects from initial research and prototyping to fully deployed, user-ready applications. My expertise spans model development, fine-tuning, production deployment, and user interface design.
+I focus on building **end-to-end AI-powered services**, combining **AI model integration, full-stack development, and deployment infrastructure** to deliver practical applications.
