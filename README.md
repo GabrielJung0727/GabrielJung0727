@@ -6,7 +6,7 @@ I am a university student and an AI full-stack software engineer focused on buil
 My portfolio website showcases my projects, experiments, and development work:
 
 🌐 **Portfolio:**  
-https://gabrieljung0727.github.io/
+https://doublej.app/team/gabriel-jung
 
 My work spans **AI model experimentation, full-stack development, and production deployment**, with a particular interest in **Natural Language Processing (NLP)** and applied AI systems.
 
