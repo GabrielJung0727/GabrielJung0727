@@ -26,7 +26,7 @@ My work spans **AI model experimentation, full-stack development, and production
 ## Portfolio
 All major projects, experiments, and development work are available on my portfolio site:
 
-👉 **https://gabrieljung0727.github.io/**
+👉 **https://doublej.app/team/gabriel-jung**
 
 The portfolio includes:
 - Personal AI experiments
