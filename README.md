@@ -116,7 +116,11 @@ For freelance and collaboration inquiries, please reach out **by email only**.
 
 <img src="https://streak-stats.demolab.com?user=GabrielJung0727&theme=tokyonight&hide_border=true" height="165" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielJung0727&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielJung0727/GabrielJung0727/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielJung0727/GabrielJung0727/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/GabrielJung0727/GabrielJung0727/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
