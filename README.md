@@ -1,8 +1,8 @@
 <div align="center">
 
 <a href="https://github.com/GabrielJung0727/GabrielJung0727/blob/main/README.md"><img src="https://img.shields.io/badge/English-Main-2563EB?style=flat-square" /></a>
-<a href="https://github.com/GabrielJung0727/GabrielJung0727/blob/main/README.ko.md"><img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Korean-0f172a?style=flat-square" /></a>
-<a href="https://github.com/GabrielJung0727/GabrielJung0727/blob/main/README.en-GB.md"><img src="https://img.shields.io/badge/English-Europe-0f172a?style=flat-square" /></a>
+<a href="https://github.com/GabrielJung0727/GabrielJung0727/blob/main/README_ko.md"><img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Korean-0f172a?style=flat-square" /></a>
+<a href="https://github.com/GabrielJung0727/GabrielJung0727/blob/main/README_en_gb.md"><img src="https://img.shields.io/badge/English-Europe-0f172a?style=flat-square" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Gabriel%20Jung&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Full-Stack%20Engineer%20%C2%B7%20DoubleJ&descSize=18&descAlignY=58" width="100%" />
 
