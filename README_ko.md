@@ -1,8 +1,8 @@
 <div align="center">
 
 <a href="https://github.com/GabrielJung0727/GabrielJung0727/blob/main/README.md"><img src="https://img.shields.io/badge/English-Main-0f172a?style=flat-square" /></a>
-<a href="https://github.com/GabrielJung0727/GabrielJung0727/blob/main/README.ko.md"><img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Korean-2563EB?style=flat-square" /></a>
-<a href="https://github.com/GabrielJung0727/GabrielJung0727/blob/main/README.en-GB.md"><img src="https://img.shields.io/badge/English-Europe-0f172a?style=flat-square" /></a>
+<a href="https://github.com/GabrielJung0727/GabrielJung0727/blob/main/README_ko.md"><img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Korean-2563EB?style=flat-square" /></a>
+<a href="https://github.com/GabrielJung0727/GabrielJung0727/blob/main/README_en_gb.md"><img src="https://img.shields.io/badge/English-Europe-0f172a?style=flat-square" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Gabriel%20Jung&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20%ED%92%80%EC%8A%A4%ED%83%9D%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%20%C2%B7%20DoubleJ&descSize=18&descAlignY=58" width="100%" />
 
@@ -116,7 +116,11 @@ flowchart LR
 
 <img src="https://streak-stats.demolab.com?user=GabrielJung0727&theme=tokyonight&hide_border=true&locale=ko" height="165" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielJung0727&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielJung0727/GabrielJung0727/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielJung0727/GabrielJung0727/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/GabrielJung0727/GabrielJung0727/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
