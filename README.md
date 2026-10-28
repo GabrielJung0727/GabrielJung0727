@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://github.com/GabrielJung0727/GabrielJung0727/blob/main/README.md"><img src="https://img.shields.io/badge/English-Main-2563EB?style=flat-square" /></a>
+<a href="https://github.com/GabrielJung0727/GabrielJung0727/blob/main/README.ko.md"><img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Korean-0f172a?style=flat-square" /></a>
+<a href="https://github.com/GabrielJung0727/GabrielJung0727/blob/main/README.en-GB.md"><img src="https://img.shields.io/badge/English-Europe-0f172a?style=flat-square" /></a>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Gabriel%20Jung&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Full-Stack%20Engineer%20%C2%B7%20DoubleJ&descSize=18&descAlignY=58" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Building+end-to-end+AI-powered+services;Idea+%E2%86%92+Prototype+%E2%86%92+Production;NLP+%C2%B7+Real-time+Prediction+%C2%B7+Full-Stack" alt="Typing SVG" /></a>
@@ -28,11 +32,11 @@ class GabrielJung:
         return self.deploy(self.integrate_model(self.prototype(idea)))
 ```
 
-- 🏛 현재 **공공기관**에서 근무 중
-- 💼 **외주 개발** 서비스 운영 중 — 기획부터 배포까지 맡아서 진행합니다
-- 🧠 AI 모델 실험부터 서비스 배포까지 **end-to-end**로 만듭니다
-- 🔧 데이터 파이프라인 · ML 모델링 · 실시간 예측 시스템 경험
-- 🚀 여러 프로덕트를 동시에 기획 · 개발 · 런칭 중
+- 🏛 Currently working at a **public institution**
+- 💼 Running a **freelance development** service — handling projects from planning to deployment
+- 🧠 Building **end-to-end** — from AI model experiments to production services
+- 🔧 Experienced in data pipelines · ML modeling · real-time prediction systems
+- 🚀 Planning, building, and launching multiple products in parallel
 
 ---
 
@@ -55,13 +59,34 @@ class GabrielJung:
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|:--|:--|:--|
-| **[SkyOps Intelligence](LINK)** | 실시간 AI 보조 항공 관제 시스템 | `Python` `ML` `Realtime` |
-| **[MODAM](LINK)** | 파크골프 클럽 운영 SaaS | `Next.js` `PostgreSQL` |
-| **[AI Document Parser](LINK)** | monday.com B2B 마켓플레이스 앱 | `TypeScript` `LLM` |
+#### 🤖 AI Dev Tooling
 
-👉 전체 프로젝트는 **[Repositories](https://github.com/GabrielJung0727?tab=repositories)** 에서
+| Project | Description | Tags |
+|:--|:--|:--|
+| **[harnesslock](https://github.com/GabrielJung0727/harnesslock)** | Vendor-neutral lockfile & drift detector for AI coding agents (Claude Code, Codex, Cursor). 100% static, zero secrets stored. | `AI Agents` `DevTools` `Static Analysis` |
+
+#### ✈️ Aviation & Safety-Critical Systems
+
+| Project | Description | Tags |
+|:--|:--|:--|
+| **[Avionics Verification Workbench](https://github.com/GabrielJung0727/avionics-verification-workbench)** | Certification-aligned V&V platform with a governed AI assurance layer for civil avionics software — governed datasets, frozen learned components, and a deterministic safety shell. | `V&V` `AI Assurance` `Safety-Critical` |
+| **[Airport Delay Lab](https://github.com/GabrielJung0727/Airport-Delay-Congestion-Analytics-with-Machine-Learning)** | Full-stack platform that analyzes and predicts airport congestion and delay risk, served through a dashboard and a route advisor. | `ML` `Forecasting` `Full-Stack` |
+| **[Airport Flight & Gate Ops](https://github.com/GabrielJung0727/Airport-Flight-Gate-Operations-Management-System)** | Airport operations system managing flights, gates, assignments, flight events, and reports in a single web UI. | `Web App` `CRUD` `Dashboard` |
+
+#### 👁 Computer Vision & ML
+
+| Project | Description | Tags |
+|:--|:--|:--|
+| **[Multi-Aircraft CLIP Representation](https://github.com/GabrielJung0727/multi-aircraft-clip-representation)** | Aircraft representation learning across PlanesNet, HRPlanes v2, and FGVC Aircraft using CLIP, rotation-oriented augmentation, U-Net transfer, DiT, and BERT. | `CLIP` `DiT` `U-Net` `Research` |
+| **[Marker-Aware OCR](https://github.com/GabrielJung0727/marker-aware-ocr)** | YOLO detection + OCR ensemble + Ollama post-processing pipeline for handwritten and marker-heavy documents. | `YOLO` `OCR` `Ollama` |
+
+#### 🎧 Audio Systems
+
+| Project | Description | Tags |
+|:--|:--|:--|
+| **[Music Program](https://github.com/GabrielJung0727/music-program)** | Hi-fi audio lounge — a distributed audio system built on a Core / Control / Output architecture. Listen alone or together, as one sound. | `Distributed` `Audio` `Realtime` |
+
+👉 See all projects in **[Repositories](https://github.com/GabrielJung0727?tab=repositories)**
 
 ---
 
@@ -79,7 +104,7 @@ flowchart LR
 
 ### 📬 Contact
 
-외주 · 협업 문의는 **이메일로만** 받습니다.
+For freelance and collaboration inquiries, please reach out **by email only**.
 
 **✉️ [jaewonjung1004@gmail.com](mailto:jaewonjung1004@gmail.com)**
 
